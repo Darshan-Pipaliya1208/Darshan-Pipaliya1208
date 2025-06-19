@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on a Flutter Real world mobile application with a focus on clean UI and smooth performance.<br>👯 I’m looking to collaborate on Open-source Flutter projects involving UI/UX, Firebase, or useful mobile utilities.<br>🤝 I’m looking for help with Advanced state management in Flutter and improving app performance.<br>🌱 I’m currently learning Flutter with Firebase, Node.js & MongoDB and exploring AI-powered mobile apps.<br>💬 Ask me about Flutter basics, Dart, responsive UI, and building beginner-friendly mobile apps.<br>⚡ Fun fact I started Flutter out of curiosity, and now I can’t go a day without building something new!
+🔭 Currently building real-world Flutter apps with a focus on clean UI and smooth performance.
+👯 Open to collaborating on Flutter open-source projects (UI/UX, Firebase, or mobile utilities).
+🤝 Seeking guidance on advanced state management and app optimization.
+🌱 Learning Flutter + Firebase, Node.js, MongoDB, and exploring AI-powered mobile apps.
+💬 Ask me about Dart, Flutter basics, and responsive UI design.
+⚡ Fun fact: I started Flutter out of curiosity—now it’s my daily passion!
 
 
 ## 🌐 Socials:
