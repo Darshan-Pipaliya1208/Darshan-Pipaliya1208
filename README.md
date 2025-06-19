@@ -1,17 +1,10 @@
 # 💫 About Me:
 🔭 Currently building real-world Flutter apps with a focus on clean UI and smooth performance.
-
 👯 Open to collaborating on Flutter open-source projects (UI/UX, Firebase, or mobile utilities).
-
 🤝 Seeking guidance on advanced state management and app optimization.
-
 🌱 Learning Flutter + Firebase, Node.js, MongoDB, and exploring AI-powered mobile apps.
-
 💬 Ask me about Dart, Flutter basics, and responsive UI design.
-
 ⚡ Fun fact: I started Flutter out of curiosity—now it’s my daily passion!
-
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100094272618012) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/darshan_pipaliya_1208/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/darshan-pipaliya-463062305/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/29461595/darshan-pipaliya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darshanpipaliya56@gmail.com) 
